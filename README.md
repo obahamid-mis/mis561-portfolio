@@ -5,4 +5,4 @@ Initial E-Commerce Profitability Analysis. Develop a basic profitability set of 
 
 Account Profitability and Service Tiers. How should Southwest Office Solutions manage its account portfolio and discount policy to improve net contribution?. [View the published Tableau workbook](https://public.tableau.com/views/MIS561AdvancinginExcelandTableau-Pt_2_17900507365030/AccountPortfolioDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link). If I did it again, I would add an interactive option that lets users test different discount approval limits and see how each one affects net contribution.
 
-Introduction to Power BI - Completed September 29, 2026. [View my Tableau Story](https://public.tableau.com/views/PowerBITrainingCertifications_17906553248950/PowerBIStory?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+Introduction to Power BI - Completed September 29, 2026. [View my Tableau Story.](https://public.tableau.com/views/PowerBITrainingCertifications_17906553248950/PowerBIStory?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
