@@ -25,6 +25,6 @@ Work sample for Renee Castillo, Director of Card Operations at Bear Down Bank: r
 
 [Work sample (PDF)](https://github.com/obahamid-mis/mis561-portfolio/blob/main/adobe/bahamid-data-storytelling.pdf) · [Adobe Express](https://new.express.adobe.com/publishedV2/urn:aaid:sc:VA6C2:567226f4-e53d-5289-aefe-6b9ed102ad1a?promoid=Y69SGM5H&sdid=C4SZ2FYJ&mv=other)
 
-Design choice: I used horizontal bars instead of a pie chart so Renee could compare the replacement groups and read the exact card counts and estimated costs. I highlighted the recommended batch in teal and repeated that color in the key numbers and recommendation box. After reviewing the draft PDF, I enlarged the chart labels and removed the annotation box because it repeated the headline and crowded the chart.
+Design choice: I used horizontal bars instead of a pie chart so Renee could compare the replacement groups and read the exact card counts and estimated costs. I highlighted the recommended batch in teal and repeated that color in the key numbers and recommendation box. During revision, I removed the annotation box because it repeated the headline and crowded the chart, and enlarged the chart labels after reviewing the draft PDF.
 
 Training completed: Nov 2, 2026
