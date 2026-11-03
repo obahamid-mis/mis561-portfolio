@@ -18,3 +18,13 @@ I would use Excel for ad hoc analysis and checking calculations, Tableau for vis
 Card Portfolio Review - Contactless Readiness. Which non-contactless cards should Bear Down Bank replace early, how many cards would be included, and what would it cost?. [View the published Tableau workbook](https://public.tableau.com/views/CardPortfolioReview-ContactlessReadiness_17924325555050/ExploratoryDash?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link). If I did this again, I would compare more detailed expiration windows to refine the replacement recommendation.
 
 Card Growth Analysis – Wildcat Rewards Offer. Which customer group should receive the first Wildcat Rewards pilot offer based on the share and number of eligible customers?. [View the Published Tableau workbook.](https://public.tableau.com/views/CardGrowthAnalysisWildcatRewardsOffer_17930787015330/ExploratoryDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) If I did it again, I would explore other customer segments before choosing the pilot group.
+
+**Nov 2, 2026 · Data Storytelling with Adobe Express**
+
+Work sample for Renee Castillo, Director of Card Operations at Bear Down Bank: replace the 211 non-contactless cards with more than 12 months until expiration for an estimated $1,688, while keeping the other groups on their scheduled replacement cycle.
+
+[Work sample (PDF)](https://github.com/obahamid-mis/mis561-portfolio/blob/main/adobe/bahamid-data-storytelling.pdf) · [Adobe Express](https://new.express.adobe.com/publishedV2/urn:aaid:sc:VA6C2:567226f4-e53d-5289-aefe-6b9ed102ad1a?promoid=Y69SGM5H&sdid=C4SZ2FYJ&mv=other)
+
+Design choice: I used horizontal bars instead of a pie chart so Renee could compare the replacement groups and read the exact card counts and estimated costs. I highlighted the recommended batch in teal and repeated that color in the key numbers and recommendation box. After reviewing the draft PDF, I enlarged the chart labels and removed the annotation box because it repeated the headline and crowded the chart.
+
+Training completed: Nov 2, 2026
